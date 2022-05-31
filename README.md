@@ -1,2 +1,7 @@
 # study-demo-collection
-学习用（demo集合）
+
+## 介绍
+
+本仓库为学习练习demo合集
+
+-[] rectjs
