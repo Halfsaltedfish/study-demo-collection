@@ -4,4 +4,4 @@
 
 本仓库为学习练习demo合集
 
--[] rectjs
+- [ ] reactjs
